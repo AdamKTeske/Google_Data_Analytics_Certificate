@@ -97,13 +97,13 @@ Looking at the five most popular stations for each rider type, we can see that a
 ## Act
 With all these findings in mind, I have a few recommendations for the executive team to get more casual users to become members: 
 
-Targeted Advertising: The majority of casual riders use stations near entertainment hubs or by the water, so we should focus our advertisements there. They would be directed towards casuals and could promote the other marketing strategies suggested below.
+***Targeted Advertising:* The majority of casual riders use stations near entertainment hubs or by the water, so we should focus our advertisements there. They would be directed towards casuals and could promote the other marketing strategies suggested below.**
 
-Summer Membership: Since the summer months are much more popular across the board, we could offer a discounted seasonal membership for those only looking for recreational biking experiences during the warmer parts of the year. 
+***Summer Membership:* Since the summer months are much more popular across the board, we could offer a discounted seasonal membership for those only looking for recreational biking experiences during the warmer parts of the year.**
 
-Weekend Membership: Much like the summer membership, this plan would cover only the weekends and would cost less than a full membership. 
+***Weekend Membership:* Much like the summer membership, this plan would cover only the weekends and would cost less than a full membership.**
 
-Many Miles Rewards Program: Casual riders take longer trips than members do. We could implement monetary rewards and/or digital badges for riders to earn if they hit a certain number of miles in a given time frame. We could incorporate a leaderboard as well, encouraging healthy competition within the community and giving people an incentive to share their scores online.    
+***Many Miles Rewards Program:* Casual riders take longer trips than members do. We could implement monetary rewards and/or digital badges for riders to earn if they hit a certain number of miles in a given time frame. We could incorporate a leaderboard as well, encouraging healthy competition within the community and giving people an incentive to share their scores online.**
 
 These marketing strategies would encourage users who don’t want a full membership to try a less committal route, which will in turn lead to more full memberships in the future. The rewards program would also increase community engagement and generate online presence for Cyclistic as riders share their monthly scores and compete for the top spot. 
 
