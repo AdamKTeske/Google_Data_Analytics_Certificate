@@ -85,7 +85,7 @@ Here are the summarized results for each of these questions:
 ## Share
 For the visualization portion of this report, I used Tableau to create a dashboard that showcases each of the 6 questions I ran queries for. Blue represents members, while green shows data for the casual users. Here is a screenshot of the dashboard itself:
 
-![Dashboard Screenshot](Dashboard.png)
+![Dashboard.png](https://github.com/AdamKTeske/Google_Data_Analytics_Certificate/blob/2296b0cf428b4922eec3de7be4767d796c03d1c9/Dashboard.png)
 
 If you’d like to see the full dashboard on Tableau, click [here]( https://public.tableau.com/views/BikesCaseStudy/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
