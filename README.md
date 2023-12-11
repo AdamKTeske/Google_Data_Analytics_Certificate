@@ -51,8 +51,8 @@ After downloading the Cyclistic monthly datasets from June 2022 to July of 2023,
 
 ### Data Preparation (SQL) 
 Assuming Excel wouldn’t be able to handle 7,000,000+ rows of data, I used SQL to combine and prepare the data for analysis: 
-*Created one master file containing all 13 datasets using the UNION function.
-*Sorted data by start date/time so everything was in chronological order.
+*Created one master file containing all 13 datasets using the UNION function.*
+*Sorted data by start date/time so everything was in chronological order.*
 
 With all my data cleaned and merged, I could move forward with my analysis. 
 
