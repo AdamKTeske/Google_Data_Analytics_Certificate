@@ -44,10 +44,10 @@ The historical data I will be working with comes straight from Cyclistic themsel
 ## Process
 ### Data Cleaning (Excel)
 After downloading the Cyclistic monthly datasets from June 2022 to July of 2023, I opened each file in Excel in order to: 
-*Remove duplicates.*
-*Trim unnecessary spaces and characters using the TRIM() function.*
-*Change the date format to YYYY/MM/DD.*
-*Remove ride entries where the start date is later than the end date.*
+*Remove duplicates.
+*Trim unnecessary spaces and characters using the TRIM() function.
+*Change the date format to YYYY/MM/DD.
+*Remove ride entries where the start date is later than the end date.
 
 ### Data Preparation (SQL) 
 Assuming Excel wouldn’t be able to handle 7,000,000+ rows of data, I used SQL to combine and prepare the data for analysis: 
