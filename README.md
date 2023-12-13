@@ -24,9 +24,7 @@ As this is the capstone project of the Google Professional Data Analytics Certif
 ### Business Task
 Of the three business tasks guiding this marketing project, I have been assigned the first:
 
-1.	**How do annual members and casual riders use Cyclistic bikes differently?**
-2.	Why would casual riders buy Cyclistic annual memberships?
-3.	How can Cyclistic use digital media to influence casual riders to become members?
+- **How do annual members and casual riders use Cyclistic bikes differently?**
 
 I'll be analyzing historical trends for this proposal, pulling from and aggregating Cyclistic's most recent data going back one calendar year. 
 
@@ -44,15 +42,15 @@ The historical data I will be working with comes straight from Cyclistic themsel
 ## Process
 ### Data Cleaning (Excel)
 After downloading the Cyclistic monthly datasets from June 2022 to July of 2023, I opened each file in Excel in order to: 
-*Remove duplicates.*
-*Trim unnecessary spaces and characters using the TRIM() function.*
-*Change the date format to YYYY/MM/DD.*
-*Remove ride entries where the start date is later than the end date.*
+1. Remove duplicates.
+2. Trim unnecessary spaces and characters using the TRIM() function.
+3. Change the date format to YYYY/MM/DD.
+4. Remove ride entries where the start date is later than the end date.
 
 ### Data Preparation (SQL) 
 Assuming Excel wouldn’t be able to handle 7,000,000+ rows of data, I used SQL to combine and prepare the data for analysis: 
-*Created one master file containing all 13 datasets using the UNION function.*
-*Sorted data by start date/time so everything was in chronological order.*
+1. Created one master file containing all 13 datasets using the UNION function.
+2. Sorted data by start date/time so everything was in chronological order.
 
 With all my data cleaned and merged, I could move forward with my analysis. 
 
